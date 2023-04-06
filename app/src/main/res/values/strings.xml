@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Selvy\nIDCard</string>
+    <string name="app_full_name">Selvy OCR for IDCard</string>
+
+    <string name="camera_error">This device doesn\'t support Camera.</string>
+    <string name="library_not_found">Library not found.</string>
+    <string name="library_load_fail">Library load fail.</string>
+
+    <string name="type">종류</string>
+    <string name="license_number">운전면허번호</string>
+    <string name="name">이름</string>
+    <string name="rrn">주민등록번호</string>
+    <string name="arn">외국인 등록번호</string>
+    <string name="issue_date">발급일자</string>
+    <string name="organization">발급처</string>
+    <string name="nation">국가 지역</string>
+    <string name="resident_status">체류자격</string>
+    <string name="license_aptitude_date">만료일자</string>
+    <string name="license_type">종별구분</string>
+    <string name="address">주소</string>
+    <string name="license_identification_number">식별번호</string>
+
+    <string name="is_valid_rrn">주민번호 유효성</string>
+    <string name="is_valid_color">흑백 여부</string>
+
+    <string name="imageprocessing">이미지 보정 중..</string>
+    <string name="recognize">신분증 정보 파악 중..</string>
+    
+    <string name="noti_focus_manual">신분증을 점선에 맞추고\n촬영 버튼을 눌러주세요.</string>
+    <string name="noti_focus_auto">신분증을 점선에 맞추고\n자동으로 촬영될 때까지 유지해 주세요.</string>
+    <string name="noti_focus_rtr">신분증을 점선에 맞추고\n자동으로 인식될 때까지 유지해 주세요.</string>
+
+    <string name="error_not_valid_area">신분증 영역이 검출되지 않았습니다.</string>
+
+    <string name="valid_rrn">유효한 주민등록번호입니다.</string>
+    <string name="not_valid_rrn">주민등록번호가 유효하지 않습니다.</string>
+
+    <string name="valid_color_idcard">컬러 신분증입니다.</string>
+    <string name="not_valid_color_idcard">흑백 신분증입니다.</string>
+
+    <string name="error_text">정확한 정보 파악을 위해 다시 촬영합니다.\n\n\n촬영이 끝날 때까지 카메라를 신분증에 맞춰 주세요.</string>
+    <string name="error_not_focus">초점이 맞지 않았습니다. 잠시만 기다려주세요.</string>
+    <string name="error_not_focus2">초점이 맞지 않습니다.\n\n\n촬영이 끝날 때까지 카메라를 신분증에 맞춰 주세요.</string>
+    <string name="error_capture_fail">촬영을 실패했습니다.\n\n\n다시 시도해 주세요.</string>
+    <string name="noti_capture_tip">* 촬영 Tip : 신분증과 다른 색의 배경에서 촬영해 주시고,\n반사광은 최소화 해 주세요.</string>
+</resources>
